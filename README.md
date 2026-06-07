@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 3rd Year CSE(AI&ML) Student 🎓
+🎓 4th Year CSE(AI&ML) Student 🎓
 
 🛠 Currently building **CampusHub** – a student marketplace  
 🤖 Exploring Conversational AI, Firebase, and Gemini API  
