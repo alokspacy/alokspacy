@@ -1,67 +1,71 @@
-<h1 align="center">Hey there, I'm Alok Singh 👋</h1>
+<!-- PROFILE HEADER -->
+<div align="center">
+  <h1>Hi there! I'm Alok Singh 👋</h1>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%94%A5;Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-  <strong>CSE Undergrad | Web Developer | AI Enthusiast</strong>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Explorer%20%F0%9F%9A%80;Problem%20Solver%20%F0%9F%94%A5;Passionate%20Builder%20%F0%9F%96%96%EF%B8%8F&font=Fira%20Code&center=true&width=440&height=40&color=00FFAA&vCenter=true&pause=1000&size=22" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 4th Year CSE(AI&ML) Student 🎓
-
-🛠 Currently building **CampusHub** – a student marketplace  
-🤖 Exploring Conversational AI, Firebase, and Gemini API  
-💬 Always ready to collaborate on meaningful tech projects
-
----
-
-## 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
----
-
-## 🚧 Projects Worked On
-
-- 🔹 **CampusHub** – Student marketplace + Gemini chatbot  
-- 🔹 **Atmos AI** – Voice-controlled J.A.R.V.I.S.-like assistant  
-- 🔹 **Conversational ImageBot** – Image Q&A system
+<!-- ABOUT ME & ILLUSTRATION TABLE -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>🚀 About Me</h2>
+      <p>
+        I'm a passionate <b>4th-year Computer Science & Engineering Undergraduate</b> specializing in <b>Artificial Intelligence & Machine Learning</b>. I love crafting smart full-stack web applications and integrating them with intelligent machine learning pipelines.
+      </p>
+      <ul>
+        <li>🏫 <b>Undergrad Focus:</b> Deep learning, conversational APIs, and modern web architectures.</li>
+        <li>🤖 <b>AI/ML Research:</b> Building personalized content delivery systems (like a <b>Movie Recommendation Engine</b>).</li>
+        <li>💬 <b>Collaborate:</b> Open to engaging web and AI-focused projects! Let's build something epic.</li>
+      </ul>
+      <p>
+        <i>"Translating complex data and backend logic into intuitive user experiences."</i>
+      </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <!-- High quality laptop coder gif showing active development -->
+      <img src="https://raw.githubusercontent.com/shivengoomer/shivengoomer/main/laptop.gif" width="85%" alt="Developer coding animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Currently Learning
+<!-- TECH STACK SECTION -->
+<h2>🛠️ Technical Toolbox</h2>
 
-- Web Sockets & Payment Integrations
-- Firebase Auth + Firestore Integration
-- Prompt Engineering with Gemini API
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Core Languages</b></td>
+      <td align="center" width="75%">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Languages" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><b>Web Frontend & Design</b></td>
+      <td align="center" width="75%">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma&theme=dark" alt="Frontend" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><b>Backend, Databases & Cloud</b></td>
+      <td align="center" width="75%">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql&theme=dark" alt="Backend" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><b>AI/ML & Dev Tools</b></td>
+      <td align="center" width="75%">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,postman,docker&theme=dark" alt="Tools" /></a>
+      </td>
+    </tr>
+  </table>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokspacy&show_icons=true&theme=radical&hide=issues&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokspacy&layout=compact&theme=radical&hide_border=true">
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <i>"Code. Learn. Repeat." 💡</i>
-</p>
+</div>
