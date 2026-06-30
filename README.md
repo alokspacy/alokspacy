@@ -1,71 +1,152 @@
-<!-- PROFILE HEADER -->
+<!-- SCI-FI HEADER & TYPING EFFECT -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=00FFAA&lines=Welcome+to+my+Profile!+✨;I'm+Alok+Singh!;Full+Stack+Developer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <div align="center">
-  <h1>Hi there! I'm Alok Singh 👋</h1>
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%94%A5;Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
-    </a>
-  </p>
+  <!-- Futuristic Cyberpunk HUD Coding Interface -->
+  <img align="center" alt="Sci-Fi Synthwave Coding HUD" width="550" src="https://user-images.githubusercontent.com/74038190/212284115-f597afb3-0402-4b58-868d-8abfe45f27d2.gif">
 </div>
 
 <br/>
 
-<!-- ABOUT ME & ILLUSTRATION TABLE -->
+<div align="center">
+  <p>🌌 <strong>Architecting the neural web, node by node. Bridging data matrix with full-stack interfaces.</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/alokai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://medium.com/@alokai" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
+    <a href="https://x.com/alok_io" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /></a>
+    <a href="mailto:alokaimlx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  </p>
+</div>
+
+---
+
+<!-- SYSTEM OPERATOR PROFILE (YAML SCHEMA WITH 3D FLUENT EMOJI) -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="35" alt="Brain" /> Operator System Identity
+
+```yaml
+Operator: Alok Singh
+Core_Role: Backend Engineer | AI Systems Integrator
+Academic_Node: B.Tech CSE (AI & ML) - 4th Year Undergrad
+Obsessions:
+  - LLMs & AI Agents
+  - RAG Systems & LangGraph
+  - System Design & Cloud Orchestration
+Diagnostic_Stacks:
+  - Python (FastAPI, Django)
+  - JavaScript / TypeScript (Next.js, React)
+  - Deep Learning (TensorFlow, PyTorch)
+  - MLOps & Kubernetes
+```
+
+### 🎯 Primary Directives (Focus)
+*   🔭 **Current Mission:** Building **AI-first products** that solve real-world problems.
+*   👯 **Collaboration:** Always open to partnering on **AI, Full Stack, Open Source & Startup ideas.**
+*   🤝 **Seeking Roles:** Opportunities in **Backend Engineering, AI Engineering, and System Design.**
+*   ⚡ **Activity Log:** Organizing hackathons, writing technical articles, and experimenting with new AI tools.
+
+---
+
+<!-- TECH SUBSYSTEMS (TECH STACK WITH 3D FLUENT EMOJIS) -->
+## 💾 Tech Subsystems & Modules
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" alt="Laptop" /> Languages & Core Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,python,ts,react,nextjs,angular,nodejs,express,fastapi&theme=dark" alt="Languages and Frameworks" />
+  </a>
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="28" alt="Floppy" /> Databases, Cloud & Infra
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,prisma,aws,gcp,azure,docker&theme=dark" alt="Databases and Cloud" />
+  </a>
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" alt="Gear" /> Dev Tools & Workflow
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,framer&theme=dark" alt="Workflow Tools" />
+  </a>
+</p>
+
+**AI & Machine Learning Nodes:** scikit-learn, TensorFlow, PyTorch, Anaconda, Streamlit, Pandas, NumPy, Matplotlib
+
+</div>
+
+---
+
+<!-- PROJECT DEPLOYMENTS (TOP 4 PROJECTS WITH 3D FLUENT EMOJI) -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" alt="Rocket" /> Active Deployments (Projects)</h2>
+
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <h2>🚀 About Me</h2>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alokspacy/Movie-Recommend-Model">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=Movie-Recommend-Model&theme=tokyonight&border_radius=10" alt="Movie Recommend Model" />
+      </a>
       <p>
-        I'm a passionate <b>4th-year Computer Science & Engineering Undergraduate</b> specializing in <b>Artificial Intelligence & Machine Learning</b>. I love crafting smart full-stack web applications and integrating them with intelligent machine learning pipelines.
-      </p>
-      <ul>
-        <li>🏫 <b>Undergrad Focus:</b> Deep learning, conversational APIs, and modern web architectures.</li>
-        <li>🤖 <b>AI/ML Research:</b> Building personalized content delivery systems (like a <b>Movie Recommendation Engine</b>).</li>
-        <li>💬 <b>Collaborate:</b> Open to engaging web and AI-focused projects! Let's build something epic.</li>
-      </ul>
-      <p>
-        <i>"Translating complex data and backend logic into intuitive user experiences."</i>
+        <b>Movie-Recommend-Model 🎬</b><br/>
+        An AI-powered content-based recommendation model built with Python, scikit-learn, and Streamlit. It uses NLP techniques and cosine similarity algorithms to recommend matching films based on user descriptions.
       </p>
     </td>
-    <td width="45%" valign="middle" align="center">
-      <!-- High quality laptop coder gif showing active development -->
-      <img src="https://raw.githubusercontent.com/shivengoomer/shivengoomer/main/laptop.gif" width="85%" alt="Developer coding animation" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/alokspacy/ReDragon-Ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=ReDragon-Ecommerce&theme=tokyonight&border_radius=10" alt="ReDragon Ecommerce" />
+      </a>
+      <p>
+        <b>ReDragon-Ecommerce 🛒</b><br/>
+        A modern full-stack eCommerce platform featuring secure authentication, product management, shopping cart, order processing, and an intuitive admin dashboard.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alokspacy/Pulse-Music-Stream">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=Pulse-Music-Stream&theme=tokyonight&border_radius=10" alt="Pulse Music Stream" />
+      </a>
+      <p>
+        <b>Pulse-Music-Stream 🎵</b><br/>
+        A modern music streaming web application with seamless audio playback, playlist management, search, and a responsive user interface built using TypeScript.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alokspacy/Kimchi-RealTime-Chat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=Kimchi-RealTime-Chat&theme=tokyonight&border_radius=10" alt="Kimchi RealTime Chat" />
+      </a>
+      <p>
+        <b>Kimchi-RealTime-Chat 💬</b><br/>
+        A real-time instant messaging application utilizing Socket.io, Node.js, Express, and React, featuring secure login and instant message synchronization.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- TECH STACK SECTION -->
-<h2>🛠️ Technical Toolbox</h2>
+<!-- SYSTEM TELEMETRY (STATS & LANGUAGES WITH 3D FLUENT EMOJI) -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" alt="Bar Chart" /> System Telemetry & Metrics</h2>
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>Core Languages</b></td>
-      <td align="center" width="75%">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Languages" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><b>Web Frontend & Design</b></td>
-      <td align="center" width="75%">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma&theme=dark" alt="Frontend" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><b>Backend, Databases & Cloud</b></td>
-      <td align="center" width="75%">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql&theme=dark" alt="Backend" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><b>AI/ML & Dev Tools</b></td>
-      <td align="center" width="75%">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,postman,docker&theme=dark" alt="Tools" /></a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alokspacy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195px" alt="Top Languages" />
+    <!-- Streak Card -->
+    <img src="https://streak-stats.demolab.com/?user=alokspacy&theme=tokyonight&hide_border=false" height="195px" alt="Streak Stats" />
+  </p>
+</div>
 
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  ### From [alokspacy](https://github.com/alokspacy)
+  
+  **"Designing systems that adapt, evolve, and execute. 🌌"**
 </div>
