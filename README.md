@@ -1,11 +1,11 @@
 <!-- SCI-FI HEADER & TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=00FFAA&lines=Welcome+to+my+Profile!+✨;I'm+Alok+Singh!;Full+Stack+Developer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=00FFAA&lines=Welcome+to+my+Profile!;I+am+Alok+Singh!;Full+Stack+Developer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <!-- Futuristic Cyberpunk HUD Coding Interface -->
-  <img align="center" alt="Sci-Fi Synthwave Coding HUD" width="550" src="https://user-images.githubusercontent.com/74038190/212284115-f597afb3-0402-4b58-868d-8abfe45f27d2.gif">
+  <!-- Generated Cyberpunk HUD Coding Workspace Banner -->
+  <img align="center" alt="Sci-Fi HUD Coding Interface" width="550" src="assets/sci_fi_coder.png">
 </div>
 
 <br/>
@@ -22,8 +22,8 @@
 
 ---
 
-<!-- SYSTEM OPERATOR PROFILE (YAML SCHEMA WITH 3D FLUENT EMOJI) -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="35" alt="Brain" /> Operator System Identity
+<!-- SYSTEM OPERATOR PROFILE (YAML/CLOUD SCHEMA) -->
+## 🧠 About Me
 
 ```yaml
 Operator: Alok Singh
@@ -48,7 +48,7 @@ Diagnostic_Stacks:
 
 ---
 
-<!-- TECH SUBSYSTEMS (TECH STACK WITH 3D FLUENT EMOJIS) -->
+<!-- TECH SUBSYSTEMS (TECH STACK) -->
 ## 💾 Tech Subsystems & Modules
 
 <div align="center">
@@ -70,7 +70,7 @@ Diagnostic_Stacks:
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" alt="Gear" /> Dev Tools & Workflow
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,framer&theme=dark" alt="Workflow Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma&theme=dark" alt="Workflow Tools" />
   </a>
 </p>
 
@@ -80,63 +80,40 @@ Diagnostic_Stacks:
 
 ---
 
-<!-- PROJECT DEPLOYMENTS (TOP 4 PROJECTS WITH 3D FLUENT EMOJI) -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" alt="Rocket" /> Active Deployments (Projects)</h2>
+<!-- PROJECT DEPLOYMENTS (TOP 4 PROJECTS - REAL PROJECTS REDIRECT) -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" alt="Rocket" /> Active Deployments (Projects)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alokspacy/Movie-Recommend-Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=Movie-Recommend-Model&theme=tokyonight&border_radius=10" alt="Movie Recommend Model" />
-      </a>
-      <p>
-        <b>Movie-Recommend-Model 🎬</b><br/>
-        An AI-powered content-based recommendation model built with Python, scikit-learn, and Streamlit. It uses NLP techniques and cosine similarity algorithms to recommend matching films based on user descriptions.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alokspacy/ReDragon-Ecommerce">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=ReDragon-Ecommerce&theme=tokyonight&border_radius=10" alt="ReDragon Ecommerce" />
-      </a>
-      <p>
-        <b>ReDragon-Ecommerce 🛒</b><br/>
-        A modern full-stack eCommerce platform featuring secure authentication, product management, shopping cart, order processing, and an intuitive admin dashboard.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alokspacy/Pulse-Music-Stream">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=Pulse-Music-Stream&theme=tokyonight&border_radius=10" alt="Pulse Music Stream" />
-      </a>
-      <p>
-        <b>Pulse-Music-Stream 🎵</b><br/>
-        A modern music streaming web application with seamless audio playback, playlist management, search, and a responsive user interface built using TypeScript.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alokspacy/Kimchi-RealTime-Chat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alokspacy&repo=Kimchi-RealTime-Chat&theme=tokyonight&border_radius=10" alt="Kimchi RealTime Chat" />
-      </a>
-      <p>
-        <b>Kimchi-RealTime-Chat 💬</b><br/>
-        A real-time instant messaging application utilizing Socket.io, Node.js, Express, and React, featuring secure login and instant message synchronization.
-      </p>
-    </td>
-  </tr>
-</table>
+🔍 **[Movie-Recommend-Model](https://github.com/alokspacy/Movie-Recommend-Model)** — AI-Powered Movie Recommendation System
+Python · scikit-learn · Streamlit · Pandas · NumPy
+
+An AI-powered content-based recommendation model built with Python, scikit-learn, and Streamlit. It uses NLP techniques and cosine similarity algorithms to recommend matching films based on user descriptions.
+
+🛒 **[ReDragon-Ecommerce](https://github.com/alokspacy/ReDragon-Ecommerce)** — Full-Stack E-Commerce Platform
+HTML · JavaScript · CSS
+
+A modern full-stack eCommerce platform featuring secure authentication, product management, shopping cart, order processing, and an intuitive admin dashboard.
+
+🎵 **[Pulse-Music-Stream](https://github.com/alokspacy/Pulse-Music-Stream)** — Modern Music Streaming Web App
+TypeScript · HTML · CSS
+
+A modern music streaming web application with seamless audio playback, playlist management, search, and a responsive user interface built using TypeScript.
+
+💬 **[Kimchi-RealTime-Chat](https://github.com/alokspacy/Kimchi-RealTime-Chat)** — Real-Time Instant Messaging Application
+React · Node.js · Express · Socket.io · JavaScript
+
+A real-time instant messaging application utilizing Socket.io, Node.js, Express, and React, featuring secure login and instant message synchronization.
 
 ---
 
-<!-- SYSTEM TELEMETRY (STATS & LANGUAGES WITH 3D FLUENT EMOJI) -->
+<!-- SYSTEM TELEMETRY (STATS & LANGUAGES) -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" alt="Bar Chart" /> System Telemetry & Metrics</h2>
 
 <div align="center">
   <p>
     <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alokspacy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195px" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=alokspacy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195px" alt="Top Languages" />
     <!-- Streak Card -->
-    <img src="https://streak-stats.demolab.com/?user=alokspacy&theme=tokyonight&hide_border=false" height="195px" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=alokspacy&theme=tokyonight&hide_border=false" height="195px" alt="Streak Stats" />
   </p>
 </div>
 
