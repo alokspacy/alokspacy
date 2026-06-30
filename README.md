@@ -4,8 +4,8 @@
 </h1>
 
 <div align="center">
-  <!-- Generated Cyberpunk HUD Coding Workspace Banner -->
-  <img align="center" alt="Sci-Fi HUD Coding Interface" width="550" src="assets/sci_fi_coder.png">
+  <!-- Custom Cyberpunk HUD Coding Workspace Banner GIF -->
+  <img align="center" alt="Sci-Fi HUD Coding Interface" width="380" src="assets/sci_fi_coder.gif">
 </div>
 
 <br/>
