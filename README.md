@@ -1,6 +1,6 @@
 <!-- SCI-FI HEADER & TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=00FFAA&lines=Welcome+to+my+Profile!;I+am+Alok+Singh!;Full+Stack+Developer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=b38bff&lines=Welcome+to+my+Profile!;I+am+Alok+Singh!;Full+Stack+Developer;AI+Engineer+%2B+Backend+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
