@@ -121,6 +121,19 @@ A real-time instant messaging application utilizing Socket.io, Node.js, Express,
 
 ---
 
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-alokai-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alokai/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-alokai-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/alokai?tab=activity)
+[![HackerRank](https://img.shields.io/badge/HackerRank-alokai-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/alokai)
+[![CodeChef](https://img.shields.io/badge/CodeChef-alokai-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/alokai)
+
+</div>
+
+---
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
