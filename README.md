@@ -12,13 +12,13 @@
 
 <div align="center">
   <p>🌌 <strong>Architecting the neural web, node by node. Bridging data matrix with full-stack interfaces.</strong></p>
-  <p>
-    <a href="https://linkedin.com/in/alokai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-    <a href="https://www.credly.com/users/alokai/badges" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?logo=credly&logoColor=white&style=for-the-badge" alt="Credly" /></a>
-    <a href="https://medium.com/@alokai" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
-    <a href="https://x.com/alok_io" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" /></a>
-    <a href="mailto:alokaimlx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+ <p>
+    <a href="https://aloksingh.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-aloksingh.tech-5f27cd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/alokai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4834d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.credly.com/users/alokai/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+    <a href="https://medium.com/@alokai" target="_blank"><img src="https://img.shields.io/badge/Medium-Read-341f97?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://x.com/alok_io" target="_blank"><img src="https://img.shields.io/badge/X-Follow-1a1a2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:alokaimlx@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
